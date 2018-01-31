@@ -1,0 +1,115 @@
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe.config
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\obj\Debug\IzboriApp.csprojResolveAssemblyReference.cache
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Form1.resources
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Properties.Resources.resources
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\obj\Debug\IzboriApp.csproj.GenerateResource.Cache
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\bin\Debug\IzboriApp.pdb
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.dll
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\bin\Debug\Iesi.Collections.dll
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\bin\Debug\NHibernate.dll
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.pdb
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.xml
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\bin\Debug\Iesi.Collections.xml
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\bin\Debug\NHibernate.xml
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\obj\Debug\IzboriApp.exe
+D:\Dokumenta\Moji projekti\Izbori\II domaci\IzboriApp\IzboriApp\obj\Debug\IzboriApp.pdb
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe.config
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.exe
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.pdb
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\bin\Debug\IzboriApp.pdb
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.dll
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\bin\Debug\Iesi.Collections.dll
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\bin\Debug\NHibernate.dll
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.pdb
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.xml
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\bin\Debug\Iesi.Collections.xml
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\bin\Debug\NHibernate.xml
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.csprojResolveAssemblyReference.cache
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Properties.Resources.resources
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.csproj.GenerateResource.Cache
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Pocetna.resources
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.UnosReklamniProstor.resources
+D:\Dokumenta\Moji projekti\Izbori\III domaci (KJ180)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Glavna.resources
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe.config
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.exe
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.pdb
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\bin\Debug\IzboriApp.pdb
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.dll
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\bin\Debug\Iesi.Collections.dll
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\bin\Debug\NHibernate.dll
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.pdb
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.xml
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\bin\Debug\Iesi.Collections.xml
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\bin\Debug\NHibernate.xml
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.csprojResolveAssemblyReference.cache
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Glavna.resources
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Pocetna.resources
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Properties.Resources.resources
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.UnosReklamniProstor.resources
+C:\Users\sindja\Desktop\New folder (3)\IzboriApp\IzboriApp\obj\Debug\IzboriApp.csproj.GenerateResource.Cache
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe.config
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.exe
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.pdb
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\bin\Debug\IzboriApp.pdb
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.dll
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\bin\Debug\Iesi.Collections.dll
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\bin\Debug\NHibernate.dll
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.pdb
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.xml
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\bin\Debug\Iesi.Collections.xml
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\bin\Debug\NHibernate.xml
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.csprojResolveAssemblyReference.cache
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Glavna.resources
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Pocetna.resources
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Properties.Resources.resources
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.UnosReklamniProstor.resources
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.csproj.GenerateResource.Cache
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.AktivistaUnos.resources
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.UnosPojavljivanja.resources
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.DodajAkciju.resources
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe.manifest
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\bin\Debug\IzboriApp.application
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.exe.manifest
+D:\Dokumenta\Moji projekti\Izbori\IzboriApp\IzboriApp\obj\Debug\IzboriApp.application
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe.config
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe.manifest
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\IzboriApp.application
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\IzboriApp.pdb
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.dll
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\Iesi.Collections.dll
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\NHibernate.dll
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\Newtonsoft.Json.dll
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.pdb
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\FluentNHibernate.xml
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\Iesi.Collections.xml
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\bin\Debug\NHibernate.xml
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.AktivistaUnos.resources
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.DodajAkciju.resources
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Glavna.resources
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Pocetna.resources
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Properties.Resources.resources
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.UnosPojavljivanja.resources
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.UnosReklamniProstor.resources
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.csproj.GenerateResource.Cache
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.exe.manifest
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.application
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.exe
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.pdb
+P:\Fakultet\Projekti\Izbori\III domaci (KJ180)\Kod\IzboriApp\IzboriApp\obj\Debug\IzboriApp.csprojResolveAssemblyReference.cache
+C:\Users\Milan\Desktop\IzboriAppNova\IzboriApp\IzboriApp\bin\Debug\IzboriApp.exe.config
+C:\Users\Milan\Desktop\IzboriAppNova\IzboriApp\IzboriApp\obj\Debug\IzboriApp.exe
+C:\Users\Milan\Desktop\IzboriAppNova\IzboriApp\IzboriApp\obj\Debug\IzboriApp.pdb
+C:\Users\Milan\Desktop\IzboriAppNova\IzboriApp\IzboriApp\obj\Debug\IzboriApp.csprojResolveAssemblyReference.cache
+C:\Users\Milan\Desktop\IzboriAppNova\IzboriApp\IzboriApp\obj\Debug\IzboriApp.AktivistaUnos.resources
+C:\Users\Milan\Desktop\IzboriAppNova\IzboriApp\IzboriApp\obj\Debug\IzboriApp.DodajAkciju.resources
+C:\Users\Milan\Desktop\IzboriAppNova\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Glavna.resources
+C:\Users\Milan\Desktop\IzboriAppNova\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Pocetna.resources
+C:\Users\Milan\Desktop\IzboriAppNova\IzboriApp\IzboriApp\obj\Debug\IzboriApp.Properties.Resources.resources
+C:\Users\Milan\Desktop\IzboriAppNova\IzboriApp\IzboriApp\obj\Debug\IzboriApp.UnosPojavljivanja.resources
+C:\Users\Milan\Desktop\IzboriAppNova\IzboriApp\IzboriApp\obj\Debug\IzboriApp.UnosReklamniProstor.resources
+C:\Users\Milan\Desktop\IzboriAppNova\IzboriApp\IzboriApp\obj\Debug\IzboriApp.csproj.GenerateResource.Cache

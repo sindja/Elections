@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{633711F6-37ED-4813-A862-02A8F8058607}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IzboriApp</RootNamespace>
+    <AssemblyName>IzboriApp</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\NIKOLIC\Desktop\Konacna\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>8F6CB919626FC8D65BC38DE2EA35F5A9F81DCCB7</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>IzboriApp_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentNHibernate, Version=2.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.0.1.0\lib\net40\FluentNHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.0.4000\lib\net40\Iesi.Collections.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NHibernate, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.4.0.0.4000\lib\net40\NHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AktivistaUnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AktivistaUnos.Designer.cs">
+      <DependentUpon>AktivistaUnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataLayer.cs" />
+    <Compile Include="DataProvider.cs" />
+    <Compile Include="DataProviderSindja.cs" />
+    <Compile Include="DodajAkciju.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodajAkciju.Designer.cs">
+      <DependentUpon>DodajAkciju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entiteti\Akcije.cs" />
+    <Compile Include="Entiteti\Aktivista.cs" />
+    <Compile Include="Entiteti\BrojeviTelefona.cs" />
+    <Compile Include="Entiteti\DeljenjeLetaka.cs" />
+    <Compile Include="Entiteti\Email.cs" />
+    <Compile Include="Entiteti\GlasackoMesto.cs" />
+    <Compile Include="Entiteti\Gost.cs" />
+    <Compile Include="Entiteti\ImenaNovinara.cs" />
+    <Compile Include="Entiteti\Lokacije.cs" />
+    <Compile Include="Entiteti\Pitanja.cs" />
+    <Compile Include="Entiteti\Pojavljivanje.cs" />
+    <Compile Include="Entiteti\PolitickiMiting.cs" />
+    <Compile Include="Entiteti\Primedbe.cs" />
+    <Compile Include="Entiteti\Protivkandidati.cs" />
+    <Compile Include="Entiteti\ReklamniProstor.cs" />
+    <Compile Include="Entiteti\SusretiKandidata.cs" />
+    <Compile Include="Entiteti\Ucestvuje.cs" />
+    <Compile Include="Entiteti\ZatvoreniMiting.cs" />
+    <Compile Include="Glavna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Glavna.Designer.cs">
+      <DependentUpon>Glavna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapiranja\AkcijeMap.cs" />
+    <Compile Include="Mapiranja\AktivistaMap.cs" />
+    <Compile Include="Mapiranja\BrojeviTelefonaMap.cs" />
+    <Compile Include="Mapiranja\DeljenjeLetakaMap.cs" />
+    <Compile Include="Mapiranja\EmailMap.cs" />
+    <Compile Include="Mapiranja\GlasackoMestoMap.cs" />
+    <Compile Include="Mapiranja\GostMap.cs" />
+    <Compile Include="Mapiranja\ImenaNovinaraMap.cs" />
+    <Compile Include="Mapiranja\LokacijeMap.cs" />
+    <Compile Include="Mapiranja\PitanjaMap.cs" />
+    <Compile Include="Mapiranja\PojavljivanjaMap.cs" />
+    <Compile Include="Mapiranja\PolitickiMitingMap.cs" />
+    <Compile Include="Mapiranja\PrimedbeMap.cs" />
+    <Compile Include="Mapiranja\ProtivkandidatiMap.cs" />
+    <Compile Include="Mapiranja\ReklamniProstorMap.cs" />
+    <Compile Include="Mapiranja\SusretiKandidataMap.cs" />
+    <Compile Include="Mapiranja\UcestvujeMap.cs" />
+    <Compile Include="Mapiranja\ZatvoreniMitingMap.cs" />
+    <Compile Include="Pocetna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pocetna.Designer.cs">
+      <DependentUpon>Pocetna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnosPojavljivanja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnosPojavljivanja.Designer.cs">
+      <DependentUpon>UnosPojavljivanja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnosReklamniProstor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnosReklamniProstor.Designer.cs">
+      <DependentUpon>UnosReklamniProstor.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AktivistaUnos.resx">
+      <DependentUpon>AktivistaUnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodajAkciju.resx">
+      <DependentUpon>DodajAkciju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Glavna.resx">
+      <DependentUpon>Glavna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pocetna.resx">
+      <DependentUpon>Pocetna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UnosPojavljivanja.resx">
+      <DependentUpon>UnosPojavljivanja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnosReklamniProstor.resx">
+      <DependentUpon>UnosReklamniProstor.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="IzboriApp_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1434566448_administrator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434566105_comment_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434566107_comment_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434566350_administrator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434566448_administrator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434566527_action.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434567128_tv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434567130_banner_design.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434567132_news.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434567379_-trash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\aktivista.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\Delete_User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\edit-validated-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\GM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\koordinator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\Newspaper-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\potvrda.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434565478_Person-group-add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434565487_Person-group-x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434565524_Person-x-white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434565620_Person-white-add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434565881_Person-add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\slike za app\1434566104_comment_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
